@@ -22,6 +22,15 @@
       <mask>*.adoc,*.</mask>
       <mask>*.adoc,*.j</mask>
       <mask>*.adoc,*.js</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*/</mask>
+      <mask>!*/_</mask>
+      <mask>!*/_s</mask>
+      <mask>!*/_site*</mask>
+      <mask>!*/_site</mask>
+      <mask>!*/_site/</mask>
+      <mask>!*/_site/*</mask>
     </recentFileMasks>
   </component>
 </application>
