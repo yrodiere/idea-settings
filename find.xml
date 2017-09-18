@@ -5,32 +5,38 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.haml,*.yml,*.rb,*.adoc" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.ad</mask>
-      <mask>*.adoc</mask>
-      <mask>*.adoc,</mask>
-      <mask>*.adoc,*</mask>
-      <mask>*.adoc,*.</mask>
-      <mask>*.adoc,*.j</mask>
-      <mask>*.adoc,*.js</mask>
-      <mask>!</mask>
-      <mask>!*</mask>
-      <mask>!*/</mask>
-      <mask>!*/_</mask>
       <mask>!*/_s</mask>
       <mask>!*/_site*</mask>
       <mask>!*/_site</mask>
       <mask>!*/_site/</mask>
       <mask>!*/_site/*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.ha</mask>
+      <mask>*.ham</mask>
+      <mask>*.haml</mask>
+      <mask>*.haml,</mask>
+      <mask>*.haml,*</mask>
+      <mask>*.haml,*.</mask>
+      <mask>*.haml,*.ym</mask>
+      <mask>*.haml,*.yml</mask>
+      <mask>*.haml,*.yml,</mask>
+      <mask>*.haml,*.yml,*</mask>
+      <mask>*.haml,*.yml,*.</mask>
+      <mask>*.haml,*.yml,*.r</mask>
+      <mask>*.haml,*.yml,*.rb</mask>
+      <mask>*.haml,*.yml,*.rb,</mask>
+      <mask>*.haml,*.yml,*.rb,*</mask>
+      <mask>*.haml,*.yml,*.rb,*.</mask>
+      <mask>*.haml,*.yml,*.rb,*.a</mask>
+      <mask>*.haml,*.yml,*.rb,*.ado</mask>
+      <mask>*.haml,*.yml,*.rb,*.adoc</mask>
     </recentFileMasks>
   </component>
 </application>
