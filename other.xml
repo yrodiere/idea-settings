@@ -1,8 +1,0 @@
-<application>
-  <component name="CodeStyleSchemesUIConfiguration">
-    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/workspaces/infra/hibernate-ide-codestyles/intellij-14/hibernate_orm.xml" />
-  </component>
-  <component name="RefactoringSettings">
-    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
-  </component>
-</application>
