@@ -5,15 +5,11 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.haml,*.yml,*.rb,*.adoc" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
-      <mask>!*/_s</mask>
-      <mask>!*/_site*</mask>
       <mask>!*/_site</mask>
       <mask>!*/_site/</mask>
       <mask>!*/_site/*</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
@@ -37,6 +33,10 @@
       <mask>*.haml,*.yml,*.rb,*.a</mask>
       <mask>*.haml,*.yml,*.rb,*.ado</mask>
       <mask>*.haml,*.yml,*.rb,*.adoc</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
