@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="Module 'hibernate-search-performance-orm'" />
+    <option name="defaultScopeName" value="Module 'hibernate-search-performance-orm'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Module 'hibernate-search-performance-orm'" />
     <recentFileMasks>
       <mask>!*/_site</mask>
       <mask>!*/_site/</mask>
