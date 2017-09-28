@@ -5,24 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="" />
     <recentFileMasks>
-      <mask>!*/_site</mask>
-      <mask>!*/_site/</mask>
-      <mask>!*/_site/*</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.ha</mask>
-      <mask>*.ham</mask>
-      <mask>*.haml</mask>
-      <mask>*.haml,</mask>
-      <mask>*.haml,*</mask>
-      <mask>*.haml,*.</mask>
-      <mask>*.haml,*.ym</mask>
-      <mask>*.haml,*.yml</mask>
-      <mask>*.haml,*.yml,</mask>
-      <mask>*.haml,*.yml,*</mask>
       <mask>*.haml,*.yml,*.</mask>
       <mask>*.haml,*.yml,*.r</mask>
       <mask>*.haml,*.yml,*.rb</mask>
@@ -36,6 +20,23 @@
       <mask>*.</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>batch-jobs.\</mask>
+      <mask>batch-jobs.*</mask>
+      <mask>batch-jobs.*.</mask>
+      <mask>batch-jobs.*.x</mask>
+      <mask>batch-jobs.</mask>
+      <mask>batch-jobs</mask>
+      <mask>batch-jobs*</mask>
+      <mask>batch-jobs**</mask>
+      <mask>batch-jobs**.</mask>
+      <mask>batch-jobs**.x,;</mask>
+      <mask>batch-jobs**.x;l</mask>
+      <mask>batch-jobs**.x;</mask>
+      <mask>batch-jobs**.x,l</mask>
+      <mask>batch-jobs**.x,</mask>
+      <mask>batch-jobs**.x</mask>
+      <mask>batch-jobs**.xm</mask>
+      <mask>batch-jobs**.xml</mask>
     </recentFileMasks>
   </component>
 </application>
