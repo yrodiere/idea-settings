@@ -5,19 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*.haml,*.yml,*.</mask>
-      <mask>*.haml,*.yml,*.r</mask>
-      <mask>*.haml,*.yml,*.rb</mask>
-      <mask>*.haml,*.yml,*.rb,</mask>
-      <mask>*.haml,*.yml,*.rb,*</mask>
-      <mask>*.haml,*.yml,*.rb,*.</mask>
-      <mask>*.haml,*.yml,*.rb,*.a</mask>
-      <mask>*.haml,*.yml,*.rb,*.ado</mask>
-      <mask>*.haml,*.yml,*.rb,*.adoc</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.ym</mask>
       <mask>*.yml</mask>
       <mask>batch-jobs.\</mask>
       <mask>batch-jobs.*</mask>
@@ -36,6 +25,18 @@
       <mask>batch-jobs**.x</mask>
       <mask>batch-jobs**.xm</mask>
       <mask>batch-jobs**.xml</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom,</mask>
+      <mask>pom,x;</mask>
+      <mask>pom,xnl</mask>
+      <mask>pom,xn</mask>
+      <mask>pom,x</mask>
+      <mask>pom,xm</mask>
+      <mask>pom,xml</mask>
+      <mask>pomxml</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
