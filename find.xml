@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'spring-data-hibernate-search-parent'" />
+    <option name="defaultScopeName" value="Project 'spring-data-hibernate-search-parent'" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project 'spring-data-hibernate-search-parent'" />
     <recentFileMasks>
       <mask>*.yml</mask>
       <mask>batch-jobs.\</mask>
