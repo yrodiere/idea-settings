@@ -5,12 +5,8 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.yml</mask>
-      <mask>batch-jobs.\</mask>
-      <mask>batch-jobs.*</mask>
-      <mask>batch-jobs.*.</mask>
-      <mask>batch-jobs.*.x</mask>
       <mask>batch-jobs.</mask>
       <mask>batch-jobs</mask>
       <mask>batch-jobs*</mask>
@@ -36,6 +32,11 @@
       <mask>pom,xml</mask>
       <mask>pomxml</mask>
       <mask>pom.xml</mask>
+      <mask>j</mask>
+      <mask>ja</mask>
+      <mask>java</mask>
+      <mask>*java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
