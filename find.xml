@@ -3,12 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>batch-jobs.</mask>
       <mask>batch-jobs</mask>
       <mask>batch-jobs*</mask>
       <mask>batch-jobs**</mask>
@@ -21,9 +19,6 @@
       <mask>batch-jobs**.x</mask>
       <mask>batch-jobs**.xm</mask>
       <mask>batch-jobs**.xml</mask>
-      <mask>p</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
       <mask>pom,</mask>
       <mask>pom,x;</mask>
       <mask>pom,xnl</mask>
@@ -32,12 +27,16 @@
       <mask>pom,xm</mask>
       <mask>pom,xml</mask>
       <mask>pomxml</mask>
-      <mask>pom.xml</mask>
       <mask>j</mask>
       <mask>ja</mask>
       <mask>java</mask>
       <mask>*java</mask>
       <mask>*.java</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
