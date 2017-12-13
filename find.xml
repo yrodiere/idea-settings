@@ -6,18 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>batch-jobs</mask>
-      <mask>batch-jobs*</mask>
-      <mask>batch-jobs**</mask>
-      <mask>batch-jobs**.</mask>
-      <mask>batch-jobs**.x,;</mask>
-      <mask>batch-jobs**.x;l</mask>
-      <mask>batch-jobs**.x;</mask>
-      <mask>batch-jobs**.x,l</mask>
-      <mask>batch-jobs**.x,</mask>
-      <mask>batch-jobs**.x</mask>
-      <mask>batch-jobs**.xm</mask>
-      <mask>batch-jobs**.xml</mask>
       <mask>pom,</mask>
       <mask>pom,x;</mask>
       <mask>pom,xnl</mask>
@@ -30,12 +18,24 @@
       <mask>ja</mask>
       <mask>java</mask>
       <mask>*java</mask>
-      <mask>*.java</mask>
       <mask>p</mask>
       <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xml</mask>
+      <mask>.</mask>
+      <mask>*.java</mask>
+      <mask>M</mask>
+      <mask>MA</mask>
+      <mask>MAN</mask>
+      <mask>MANI</mask>
+      <mask>MANIF</mask>
+      <mask>MANIFE</mask>
+      <mask>MANIFES</mask>
+      <mask>MANIFEST.M</mask>
+      <mask>MANIFEST.MF</mask>
+      <mask>MANIFEST.</mask>
+      <mask>MANIFEST</mask>
     </recentFileMasks>
   </component>
 </application>
