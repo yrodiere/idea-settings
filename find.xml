@@ -5,14 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>pom,</mask>
-      <mask>pom,x;</mask>
-      <mask>pom,xnl</mask>
-      <mask>pom,xn</mask>
-      <mask>pom,x</mask>
-      <mask>pom,xm</mask>
-      <mask>pom,xml</mask>
       <mask>pomxml</mask>
       <mask>j</mask>
       <mask>ja</mask>
@@ -36,6 +30,13 @@
       <mask>MANIFEST.MF</mask>
       <mask>MANIFEST.</mask>
       <mask>MANIFEST</mask>
+      <mask>,</mask>
+      <mask>,gr</mask>
+      <mask>,gra</mask>
+      <mask>,grad</mask>
+      <mask>,gradle</mask>
+      <mask>*,gradle</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
