@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'hibernate-search-parent'" />
-    <option name="defaultScopeName" value="Project 'hibernate-search-parent'" />
-    <option name="SEARCH_SCOPE" value="Project 'hibernate-search-parent'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>pomxml</mask>
       <mask>j</mask>
