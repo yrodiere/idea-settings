@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '.../backend-elasticsearch/src/main/java/org/hibernate/search/v6poc/backend/elasticsearch/search/dsl/impl [hibernate-search-backend-elasticsearch]'" />
+    <option name="defaultScopeName" value="Directory '.../backend-elasticsearch/src/main/java/org/hibernate/search/v6poc/backend/elasticsearch/search/dsl/impl [hibernate-search-backend-elasticsearch]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../backend-elasticsearch/src/main/java/org/hibernate/search/v6poc/backend/elasticsearch/search/dsl/impl [hibernate-search-backend-elasticsearch]'" />
     <recentFileMasks>
       <mask>pomxml</mask>
       <mask>j</mask>
