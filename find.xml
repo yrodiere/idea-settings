@@ -1,23 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.asciidoc" />
     <recentFileMasks>
-      <mask>pomxml</mask>
-      <mask>j</mask>
-      <mask>ja</mask>
-      <mask>java</mask>
-      <mask>*java</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>.</mask>
-      <mask>*.java</mask>
-      <mask>M</mask>
-      <mask>MA</mask>
-      <mask>MAN</mask>
       <mask>MANI</mask>
       <mask>MANIF</mask>
       <mask>MANIFE</mask>
@@ -36,6 +23,18 @@
       <mask>p</mask>
       <mask>po</mask>
       <mask>pom.xml</mask>
+      <mask>_</mask>
+      <mask>)</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.a</mask>
+      <mask>*.as</mask>
+      <mask>*.ascoo</mask>
+      <mask>*.asco</mask>
+      <mask>*.asc</mask>
+      <mask>*.asci</mask>
+      <mask>*.ascii</mask>
+      <mask>*.asciidoc</mask>
     </recentFileMasks>
   </component>
 </application>
