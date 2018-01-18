@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'hibernate-search-6-poc'" />
+    <option name="defaultScopeName" value="Project 'hibernate-search-6-poc'" />
+    <option name="SEARCH_SCOPE" value="Project 'hibernate-search-6-poc'" />
     <recentFileMasks>
       <mask>MANI</mask>
       <mask>MANIF</mask>
