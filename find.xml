@@ -5,8 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>MANI</mask>
       <mask>MANIF</mask>
       <mask>MANIFE</mask>
       <mask>MANIFES</mask>
@@ -21,9 +21,7 @@
       <mask>,gradle</mask>
       <mask>*,gradle</mask>
       <mask>*.gradle</mask>
-      <mask>p</mask>
       <mask>po</mask>
-      <mask>pom.xml</mask>
       <mask>_</mask>
       <mask>)</mask>
       <mask>*</mask>
@@ -36,6 +34,9 @@
       <mask>*.asci</mask>
       <mask>*.ascii</mask>
       <mask>*.asciidoc</mask>
+      <mask>p</mask>
+      <mask>pom</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
