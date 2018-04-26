@@ -1,43 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Cyclic dependencies" />
-    <option name="defaultScopeName" value="Cyclic dependencies" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Cyclic dependencies" />
-    <recentFileMasks>
-      <mask>MANIF</mask>
-      <mask>MANIFE</mask>
-      <mask>MANIFES</mask>
-      <mask>MANIFEST.M</mask>
-      <mask>MANIFEST.MF</mask>
-      <mask>MANIFEST.</mask>
-      <mask>MANIFEST</mask>
-      <mask>,</mask>
-      <mask>,gr</mask>
-      <mask>,gra</mask>
-      <mask>,grad</mask>
-      <mask>,gradle</mask>
-      <mask>*,gradle</mask>
-      <mask>*.gradle</mask>
-      <mask>po</mask>
-      <mask>_</mask>
-      <mask>)</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.a</mask>
-      <mask>*.as</mask>
-      <mask>*.ascoo</mask>
-      <mask>*.asco</mask>
-      <mask>*.asc</mask>
-      <mask>*.asci</mask>
-      <mask>*.ascii</mask>
-      <mask>p</mask>
-      <mask>pom</mask>
-      <mask>*.asciidoc</mask>
-      <mask>pom.xml</mask>
-    </recentFileMasks>
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
