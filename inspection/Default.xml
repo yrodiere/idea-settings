@@ -4,4 +4,5 @@
     <option name="ignoreObjectMethods" value="true" />
     <option name="ignoreAnonymousClassMethods" value="false" />
   </inspection_tool>
+  <inspection_tool class="OptionalUsedAsFieldOrParameterType" enabled="true" level="INFORMATION" enabled_by_default="true" />
 </profile>
