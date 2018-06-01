@@ -14,7 +14,7 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.asciidoc</mask>
     <mask>pom.xml</mask>
+    <mask>*.asciidoc</mask>
   </component>
 </application>
