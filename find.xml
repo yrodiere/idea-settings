@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="Project 'hibernate-search-v6poc'" />
+    <option name="defaultScopeName" value="Project 'hibernate-search-v6poc'" />
+    <option name="SEARCH_SCOPE" value="Project 'hibernate-search-v6poc'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
