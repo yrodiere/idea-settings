@@ -82,6 +82,11 @@
   <ADDITIONAL_INDENT_OPTIONS fileType="yml">
     <option name="INDENT_SIZE" value="2" />
   </ADDITIONAL_INDENT_OPTIONS>
+  <codeStyleSettings language="Groovy">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />

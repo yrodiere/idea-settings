@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="dia" type="Native" />
       <mapping pattern="persistence,xml" type="PLAIN_TEXT" />
       <mapping ext="haml" type="PLAIN_TEXT" />
