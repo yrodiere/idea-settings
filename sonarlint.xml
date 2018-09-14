@@ -1,0 +1,22 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9fdfccdf9adf93dfccdf93dfc9df9adf9fdf9fdfcfdf98df9edfcbdfc9df98df99df92dfcbdf93df9ddf9cdfcbdf9cdf9bdf9cdf99df92df93dfcfdf9ddfc8df99df9bdf9fdf99dfcfdf9fdfccdfcf</token>
+          <option name="name" value="sonarcloud-yrodiere" />
+          <organizationKey>yrodiere-github</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9adfc8df99df9ddf9cdfc9dfcedfcfdfccdf9bdfc9dfc8dfcfdf9bdf9ddf99df9fdfcedfc8df9adfc9df9edfcbdf9edf92dfcfdfc8df93df9adf9adfccdf9fdfcfdfcbdfcfdfc9df9cdf92df92df93</token>
+          <option name="name" value="sonarcloud-hibernate" />
+          <organizationKey>hibernate</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
