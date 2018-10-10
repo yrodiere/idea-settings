@@ -70,15 +70,14 @@
         <root url="file://$USER_HOME$/workspaces/infra/hibernate-jenkins-pipeline-helpers/src" />
       </SOURCES>
     </library>
-    <library name="org.apache.felix:org.apache.felix.framework:5.6.6" type="repository">
-      <properties maven-id="org.apache.felix:org.apache.felix.framework:5.6.6" />
+    <library name="org.apache.felix:org.apache.felix.framework:5.6.10" type="repository">
+      <properties maven-id="org.apache.felix:org.apache.felix.framework:5.6.10" />
       <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.framework/5.6.6/org.apache.felix.framework-5.6.6.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.framework/5.6.10/org.apache.felix.framework-5.6.10.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="jar://$USER_HOME$/.ideaLibSources/org.apache.felix.framework-5.6.6-sources.jar!/" />
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.framework/5.6.6/org.apache.felix.framework-5.6.6.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/felix/org.apache.felix.framework/5.6.10/org.apache.felix.framework-5.6.10-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="org.wildfly:jipijapa-hibernate5:12.0.0.Final" type="repository">
