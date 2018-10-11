@@ -19,5 +19,6 @@
     <mask>*.java</mask>
     <mask>hibernate.properties</mask>
     <mask>pom.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
