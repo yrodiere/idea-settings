@@ -11,12 +11,12 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.asciidoc</mask>
     <mask>Log.java</mask>
     <mask>*.groovy</mask>
     <mask>*.java</mask>
     <mask>hibernate.properties</mask>
     <mask>pom.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*.asciidoc</mask>
   </component>
 </application>
