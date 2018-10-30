@@ -4,9 +4,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <mask>*.properties</mask>
@@ -18,12 +16,12 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.groovy</mask>
-    <mask>*.java</mask>
     <mask>hibernate.properties</mask>
     <mask>pom.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.asciidoc</mask>
     <mask>Log.java</mask>
     <mask>*IT.java</mask>
+    <mask>*.java</mask>
   </component>
 </application>
