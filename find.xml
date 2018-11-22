@@ -18,8 +18,8 @@
     <mask>*.gradle</mask>
     <mask>*.asciidoc</mask>
     <mask>*IT.java</mask>
-    <mask>pom.xml</mask>
     <mask>Log.java</mask>
     <mask>*.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
