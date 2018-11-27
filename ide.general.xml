@@ -1,6 +1,8 @@
 <application>
   <component name="GeneralSettings">
+    <option name="autoSaveIfInactive" value="true" />
     <option name="confirmOpenNewProject2" value="1" />
+    <option name="inactiveTimeout" value="2" />
     <option name="searchInBackground" value="true" />
   </component>
   <component name="Registry">
