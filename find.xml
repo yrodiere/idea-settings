@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Non-legacy" />
     <option name="defaultScopeName" value="Non-legacy" />
+    <option name="localRegularExpressions" value="true" />
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Non-legacy" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
