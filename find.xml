@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Non-legacy tests and ITs" />
-    <option name="defaultScopeName" value="Non-legacy tests and ITs" />
-    <option name="SEARCH_SCOPE" value="Non-legacy tests and ITs" />
+    <option name="customScope" value="Non-legacy main code" />
+    <option name="defaultScopeName" value="Non-legacy main code" />
+    <option name="SEARCH_SCOPE" value="Non-legacy main code" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
