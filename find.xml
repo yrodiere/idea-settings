@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Non-legacy main code" />
     <option name="defaultScopeName" value="Non-legacy main code" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Non-legacy main code" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
