@@ -88,6 +88,14 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ToStringRenderer">
+      <option name="ON_DEMAND" value="true" />
+    </Renderer>
+  </component>
+  <component name="ThreadsViewSettings">
+    <option name="SHOW_THREAD_GROUPS" value="true" />
+  </component>
   <component name="XDebuggerSettings">
     <data-views>
       <show-values-inline>false</show-values-inline>
