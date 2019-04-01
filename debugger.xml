@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="TRACING_FILTERS_ENABLED" value="false" />
     <option name="SKIP_CLASSLOADERS" value="false" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <filter>
@@ -92,9 +93,7 @@
     <option name="SHOW_THREAD_GROUPS" value="true" />
   </component>
   <component name="XDebuggerSettings">
-    <data-views>
-      <show-values-inline>false</show-values-inline>
-    </data-views>
+    <data-views />
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
