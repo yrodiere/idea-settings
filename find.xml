@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.asciidoc" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -17,7 +18,6 @@
     <mask>*.groovy</mask>
     <mask>hibernate.properties</mask>
     <mask>*.gradle</mask>
-    <mask>*.asciidoc</mask>
     <mask>*IT.java</mask>
     <mask>Log.java</mask>
     <mask>*.java</mask>
@@ -25,5 +25,6 @@
     <mask>*.rb</mask>
     <mask>*.properties</mask>
     <mask>*Settings.java</mask>
+    <mask>*.asciidoc</mask>
   </component>
 </application>
