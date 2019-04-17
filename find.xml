@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.asciidoc" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -21,10 +21,10 @@
     <mask>*IT.java</mask>
     <mask>Log.java</mask>
     <mask>*.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.rb</mask>
     <mask>*.properties</mask>
     <mask>*Settings.java</mask>
     <mask>*.asciidoc</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
