@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="Non-legacy tests and ITs" />
+    <option name="FILE_MASK" value="*.asciidoc" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -22,7 +23,7 @@
     <mask>*.properties</mask>
     <mask>*Settings.java</mask>
     <mask>pom.xml</mask>
-    <mask>*.asciidoc</mask>
     <mask>pom.xml, *.properties</mask>
+    <mask>*.asciidoc</mask>
   </component>
 </application>
