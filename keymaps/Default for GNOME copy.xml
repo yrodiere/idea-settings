@@ -1,0 +1,5 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="Macro.Git annotate + history">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+</keymap>
