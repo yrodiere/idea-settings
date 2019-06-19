@@ -1,12 +1,11 @@
 <application>
   <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
     <option name="UI_SHOW_FILES" value="false" />
     <option name="UI_SHOW_MODULES" value="false" />
-    <option name="UI_FILTER_LEGALS" value="true" />
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Cantarell Regular" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
   </component>
 </application>
