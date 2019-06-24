@@ -4,5 +4,9 @@
       <action id="Annotate" />
       <action id="Vcs.ShowTabbedFileHistory" />
     </macro>
+    <macro name="Resolve all conflicts">
+      <action id="Git.ResolveConflicts" />
+      <shortuct text="control A" />
+    </macro>
   </component>
 </application>

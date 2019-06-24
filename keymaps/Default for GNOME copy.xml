@@ -2,4 +2,7 @@
   <action id="Macro.Git annotate + history">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="Macro.Resolve all conflicts">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
 </keymap>
