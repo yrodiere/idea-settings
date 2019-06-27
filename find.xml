@@ -17,12 +17,12 @@
     <mask>*IT.java</mask>
     <mask>Log.java</mask>
     <mask>*.rb</mask>
-    <mask>*.properties</mask>
     <mask>*Settings.java</mask>
     <mask>pom.xml</mask>
     <mask>*.asciidoc</mask>
     <mask>*.gradle</mask>
     <mask>pom.xml, *.properties</mask>
     <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
