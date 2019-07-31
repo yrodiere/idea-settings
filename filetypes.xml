@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="dia" type="Native" />
+      <mapping pattern="ci-slave" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="persistence,xml" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
