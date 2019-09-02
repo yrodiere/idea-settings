@@ -1,7 +1,8 @@
 <code_scheme name="hibernate-noorm-style" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </value>
   </option>
   <option name="ELSE_ON_NEW_LINE" value="true" />
