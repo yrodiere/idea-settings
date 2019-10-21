@@ -19,9 +19,9 @@
     <mask>pom.xml, *.properties</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
-    <mask>*.gradle</mask>
     <mask>*.asciidoc</mask>
     <mask>!*.html</mask>
     <mask>pom.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
