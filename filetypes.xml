@@ -13,9 +13,9 @@
       <mapping ext="haml" type="PLAIN_TEXT" />
       <mapping ext="btm" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="si" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="multistage" type="PLAIN_TEXT" />
-      <mapping ext="si" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
