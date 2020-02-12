@@ -13,6 +13,7 @@
       <mapping ext="haml" type="PLAIN_TEXT" />
       <mapping ext="btm" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="profiler" type="PLAIN_TEXT" />
       <mapping ext="si" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="multistage" type="PLAIN_TEXT" />
