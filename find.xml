@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.asciidoc" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -18,12 +19,12 @@
     <mask>pom.xml, *.properties</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
-    <mask>*.asciidoc</mask>
     <mask>!*.html</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*Test.java</mask>
     <mask>pom.xml</mask>
     <mask>*.adoc</mask>
+    <mask>*.asciidoc</mask>
   </component>
 </application>
