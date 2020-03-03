@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.haml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -27,5 +28,6 @@
     <mask>*.adoc</mask>
     <mask>pom.xml</mask>
     <mask>*.asciidoc</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
