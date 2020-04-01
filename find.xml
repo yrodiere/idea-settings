@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -20,7 +18,6 @@
     <mask>*Settings.java</mask>
     <mask>pom.xml, *.properties</mask>
     <mask>*.java</mask>
-    <mask>*.properties</mask>
     <mask>!*.html</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
@@ -29,5 +26,6 @@
     <mask>*.asciidoc</mask>
     <mask>*.haml</mask>
     <mask>pom.xml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
