@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -22,7 +23,6 @@
     <mask>pom.xml, *.properties</mask>
     <mask>*.java</mask>
     <mask>!*.html</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*Test.java</mask>
     <mask>*.adoc</mask>
@@ -31,5 +31,6 @@
     <mask>*.properties</mask>
     <mask>*Config.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
