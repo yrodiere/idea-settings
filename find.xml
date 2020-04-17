@@ -9,7 +9,7 @@
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Settings.java" />
+    <option name="FILE_MASK" value="*.asciidoc" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -31,8 +31,8 @@
     <mask>*.properties</mask>
     <mask>*Config.java</mask>
     <mask>pom.xml</mask>
-    <mask>*.asciidoc</mask>
     <mask>*.gradle</mask>
     <mask>*Settings.java</mask>
+    <mask>*.asciidoc</mask>
   </component>
 </application>
