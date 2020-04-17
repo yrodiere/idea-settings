@@ -1,14 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="preserveCase" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Settings.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -20,7 +21,6 @@
     <mask>*IT.java</mask>
     <mask>Log.java</mask>
     <mask>*.rb</mask>
-    <mask>*Settings.java</mask>
     <mask>pom.xml, *.properties</mask>
     <mask>*.java</mask>
     <mask>!*.html</mask>
@@ -33,5 +33,6 @@
     <mask>pom.xml</mask>
     <mask>*.asciidoc</mask>
     <mask>*.gradle</mask>
+    <mask>*Settings.java</mask>
   </component>
 </application>
