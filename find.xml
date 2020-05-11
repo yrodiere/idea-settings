@@ -3,8 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
@@ -23,13 +21,13 @@
     <mask>!*.html</mask>
     <mask>*.xml</mask>
     <mask>*Test.java</mask>
-    <mask>*.adoc</mask>
-    <mask>*.haml</mask>
     <mask>*.properties</mask>
     <mask>*Config.java</mask>
     <mask>pom.xml</mask>
     <mask>*.gradle</mask>
     <mask>*Settings.java</mask>
     <mask>*.asciidoc</mask>
+    <mask>*.adoc</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
