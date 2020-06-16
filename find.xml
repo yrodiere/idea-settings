@@ -29,11 +29,11 @@
     <mask>*Test.java</mask>
     <mask>*.properties</mask>
     <mask>*Config.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.gradle</mask>
     <mask>*Settings.java</mask>
     <mask>*.adoc</mask>
     <mask>*.haml</mask>
     <mask>*.asciidoc</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
