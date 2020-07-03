@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.asciidoc" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -26,8 +27,8 @@
     <mask>*Settings.java</mask>
     <mask>*.adoc</mask>
     <mask>*.haml</mask>
-    <mask>*.asciidoc</mask>
     <mask>*.gradle</mask>
     <mask>pom.xml</mask>
+    <mask>*.asciidoc</mask>
   </component>
 </application>
