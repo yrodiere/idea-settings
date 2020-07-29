@@ -3,23 +3,23 @@
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="dia" type="Native" />
-      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="ci-slave" type="PLAIN_TEXT" />
       <mapping pattern="persistence,xml" type="PLAIN_TEXT" />
+      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="segments_2" type="PLAIN_TEXT" />
-      <mapping ext="cfs" type="PLAIN_TEXT" />
-      <mapping ext="cfe" type="PLAIN_TEXT" />
-      <mapping ext="haml" type="PLAIN_TEXT" />
+      <mapping pattern="ci-slave" type="PLAIN_TEXT" />
+      <mapping ext="multistage" type="PLAIN_TEXT" />
       <mapping ext="btm" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
-      <mapping ext="profiler" type="PLAIN_TEXT" />
       <mapping ext="si" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
-      <mapping ext="multistage" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="cfe" type="PLAIN_TEXT" />
+      <mapping ext="haml" type="PLAIN_TEXT" />
+      <mapping ext="cfs" type="PLAIN_TEXT" />
+      <mapping ext="profiler" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="scss" approved="true" type="PLAIN_TEXT" />
