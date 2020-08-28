@@ -545,7 +545,6 @@
   </component>
   <component name="NodeRendererSettings">
     <Renderer ID="ToStringRenderer">
-      <option name="ON_DEMAND" value="true" />
       <option name="USE_CLASS_FILTERS" value="true" />
     </Renderer>
   </component>
