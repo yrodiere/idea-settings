@@ -1,0 +1,17 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1599478165546" />
+          <option name="importOrderConfigFilePath" value="$USER_HOME$/workspaces/main/quarkus/independent-projects/ide-config/src/main/resources/eclipse.importorder" />
+          <option name="importOrderFromFile" value="true" />
+          <option name="name" value="quarkus-parent" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/workspaces/main/quarkus/independent-projects/ide-config/src/main/resources/eclipse-format.xml" />
+          <option name="selectedJavaProfile" value="Quarkus" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
