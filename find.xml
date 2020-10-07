@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.haml" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -28,7 +28,7 @@
     <mask>*.gradle</mask>
     <mask>*.asciidoc</mask>
     <mask>*.properties</mask>
-    <mask>pom.xml</mask>
     <mask>*.haml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
