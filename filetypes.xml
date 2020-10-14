@@ -17,6 +17,7 @@
       <mapping ext="si" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="cfe" type="PLAIN_TEXT" />
+      <mapping ext="adoc2" type="PLAIN_TEXT" />
       <mapping ext="haml" type="PLAIN_TEXT" />
       <mapping ext="cfs" type="PLAIN_TEXT" />
       <mapping ext="profiler" type="PLAIN_TEXT" />
