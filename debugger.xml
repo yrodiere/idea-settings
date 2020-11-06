@@ -544,11 +544,6 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
-  <component name="NodeRendererSettings">
-    <Renderer ID="ToStringRenderer">
-      <option name="USE_CLASS_FILTERS" value="true" />
-    </Renderer>
-  </component>
   <component name="ThreadsViewSettings">
     <option name="SHOW_THREAD_GROUPS" value="true" />
   </component>
