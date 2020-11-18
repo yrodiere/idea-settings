@@ -545,16 +545,17 @@
     </filter>
   </component>
   <component name="NodeRendererSettings">
+    <option name="ALTERNATIVE_COLLECTION_VIEW_ENABLED" value="false" />
     <Renderer ID="ToStringRenderer">
       <option name="USE_CLASS_FILTERS" value="true" />
       <filter>
         <option name="PATTERN" value="org.hibernate.search.*" />
-        <option name="ENABLED" value="true" />
+        <option name="ENABLED" value="false" />
         <option name="INCLUDE" value="true" />
       </filter>
       <filter>
         <option name="PATTERN" value="java.*" />
-        <option name="ENABLED" value="true" />
+        <option name="ENABLED" value="false" />
         <option name="INCLUDE" value="true" />
       </filter>
     </Renderer>
