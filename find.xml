@@ -26,8 +26,8 @@
     <mask>*.haml</mask>
     <mask>*.rb</mask>
     <mask>*.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.asciidoc</mask>
     <mask>*.gradle</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
