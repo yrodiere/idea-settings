@@ -16,6 +16,7 @@
       <mapping ext="btm" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="si" type="PLAIN_TEXT" />
+      <mapping ext="quarkustestaftereachcallback" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="cfe" type="PLAIN_TEXT" />
       <mapping ext="adoc2" type="PLAIN_TEXT" />
