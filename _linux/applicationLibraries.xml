@@ -70,5 +70,12 @@
         <root url="file://$USER_HOME$/workspaces/infra/hibernate-jenkins-pipeline-helpers/src" />
       </SOURCES>
     </library>
+    <library name="totoz">
+      <CLASSES>
+        <root url="file://$USER_HOME$/workspaces/github-bot-java/quarkus-bot-java/target/totoz" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
