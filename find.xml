@@ -23,12 +23,12 @@
     <mask>*.adoc</mask>
     <mask>*IT.java</mask>
     <mask>*.properties</mask>
-    <mask>*.haml</mask>
-    <mask>*.rb</mask>
     <mask>*.java</mask>
     <mask>*.asciidoc</mask>
     <mask>*.gradle</mask>
     <mask>pom.xml</mask>
     <mask>*.proto</mask>
+    <mask>*.haml</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
