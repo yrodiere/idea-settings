@@ -12,6 +12,7 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="persistence,xml" type="PLAIN_TEXT" />
       <mapping pattern="ci-slave" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="multistage" type="PLAIN_TEXT" />
       <mapping ext="btm" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
