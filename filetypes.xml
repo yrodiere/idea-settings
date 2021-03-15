@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="inrelationto-knownhosts" type="AUTO_DETECTED" />
+      <mapping pattern="podman-auto-update" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="jbang" type="JAVA" />
       <mapping ext="gradle.kts" type="Kotlin" />
