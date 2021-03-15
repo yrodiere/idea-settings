@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="inrelationto-knownhosts" type="AUTO_DETECTED" />
       <mapping pattern="podman-auto-update" type="AUTO_DETECTED" />
+      <mapping pattern="container-hibernate-github-bot" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="jbang" type="JAVA" />
       <mapping ext="gradle.kts" type="Kotlin" />
