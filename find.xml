@@ -30,7 +30,7 @@
     <mask>*.java</mask>
     <mask>*.yml</mask>
     <mask>*.haml</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
