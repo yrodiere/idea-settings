@@ -32,5 +32,6 @@
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>Log.java</mask>
+    <mask>!*.java</mask>
   </component>
 </application>
