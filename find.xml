@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.js</mask>
+    <option name="FILE_MASK" value="*Scope*" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -35,5 +35,6 @@
     <mask>*Sort*</mask>
     <mask>*Predicate*</mask>
     <mask>*Projectio*</mask>
+    <mask>*Scope*</mask>
   </component>
 </application>
