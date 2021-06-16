@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.java" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -10,7 +11,6 @@
     <mask>hibernate.properties</mask>
     <mask>pom.xml, *.properties</mask>
     <mask>!*.html</mask>
-    <mask>*Test.java</mask>
     <mask>*Config.java</mask>
     <mask>*.adoc</mask>
     <mask>*IT.java</mask>
@@ -33,5 +33,6 @@
     <mask>*Predicate*</mask>
     <mask>*Projectio*</mask>
     <mask>*Scope*</mask>
+    <mask>*Test.java</mask>
   </component>
 </application>
