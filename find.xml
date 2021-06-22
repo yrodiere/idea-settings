@@ -1,15 +1,15 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.asciidoc" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -29,7 +29,6 @@
     <mask>*.yml</mask>
     <mask>*.haml</mask>
     <mask>*.xml</mask>
-    <mask>pom.xml</mask>
     <mask>Log.java</mask>
     <mask>!*.java</mask>
     <mask>*.java</mask>
@@ -40,5 +39,6 @@
     <mask>*Scope*</mask>
     <mask>*Test.java</mask>
     <mask>*.asciidoc</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
