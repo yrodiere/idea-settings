@@ -1,22 +1,22 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="inrelationto-knownhosts" type="AUTO_DETECTED" />
-      <mapping pattern="la-divina-comedia" type="AUTO_DETECTED" />
       <mapping pattern="podman-auto-update" type="AUTO_DETECTED" />
+      <mapping pattern="la-divina-comedia" type="AUTO_DETECTED" />
       <mapping pattern="container-hibernate-github-bot" type="AUTO_DETECTED" />
+      <mapping pattern="inrelationto-knownhosts" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="jbang" type="JAVA" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="dia" type="Native" />
-      <mapping pattern=".donotdelete" type="PLAIN_TEXT" />
+      <mapping pattern="persistence,xml" type="PLAIN_TEXT" />
+      <mapping pattern="ci-slave" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="segments_2" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="persistence,xml" type="PLAIN_TEXT" />
-      <mapping pattern="ci-slave" type="PLAIN_TEXT" />
+      <mapping pattern=".donotdelete" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="multistage" type="PLAIN_TEXT" />
       <mapping ext="btm" type="PLAIN_TEXT" />
