@@ -9,6 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.haml" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.groovy</mask>
@@ -24,7 +25,6 @@
     <mask>*Settings.java</mask>
     <mask>!pom.xml</mask>
     <mask>*.yml</mask>
-    <mask>*.haml</mask>
     <mask>Log.java</mask>
     <mask>!*.java</mask>
     <mask>*.java</mask>
@@ -39,5 +39,6 @@
     <mask>*.json</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
