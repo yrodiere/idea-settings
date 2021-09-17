@@ -36,8 +36,8 @@
     <mask>*.asciidoc</mask>
     <mask>*.gradle</mask>
     <mask>*.json</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.haml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
