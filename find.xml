@@ -11,8 +11,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
-    <mask>*.css</mask>
+    <option name="FILE_MASK" value="beans.xml" />
     <mask>*.mxml</mask>
     <mask>*.groovy</mask>
     <mask>hibernate.properties</mask>
@@ -42,5 +41,6 @@
     <mask>*.java</mask>
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
+    <mask>beans.xml</mask>
   </component>
 </application>
