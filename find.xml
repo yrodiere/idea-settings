@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>pom.xml, *.properties</mask>
     <mask>!*.html</mask>
     <mask>*Config.java</mask>
@@ -33,10 +33,10 @@
     <mask>*.xml</mask>
     <mask>persistence.xml</mask>
     <mask>*.asciidoc</mask>
-    <mask>*.java</mask>
     <mask>beans.xml</mask>
     <mask>*persistence.xml</mask>
     <mask>batch.xml,hibernate-search-mass-indexing.xml</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
