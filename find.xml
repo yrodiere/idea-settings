@@ -9,8 +9,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.groovy</mask>
-    <mask>hibernate.properties</mask>
     <mask>pom.xml, *.properties</mask>
     <mask>!*.html</mask>
     <mask>*Config.java</mask>
@@ -33,11 +31,13 @@
     <mask>*.gradle</mask>
     <mask>*.json</mask>
     <mask>*.haml</mask>
-    <mask>*.java</mask>
-    <mask>beans.xml</mask>
     <mask>*.xml</mask>
     <mask>persistence.xml</mask>
-    <mask>pom.xml</mask>
     <mask>*.asciidoc</mask>
+    <mask>*.java</mask>
+    <mask>beans.xml</mask>
+    <mask>*persistence.xml</mask>
+    <mask>batch.xml,hibernate-search-mass-indexing.xml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
