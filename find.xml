@@ -10,7 +10,6 @@
     <mask>pom.xml, *.properties</mask>
     <mask>!*.html</mask>
     <mask>*Config.java</mask>
-    <mask>*.adoc</mask>
     <mask>*IT.java</mask>
     <mask>*.properties</mask>
     <mask>*.proto</mask>
@@ -37,5 +36,6 @@
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.asciidoc</mask>
+    <mask>*.adoc</mask>
   </component>
 </application>
