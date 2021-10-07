@@ -3,6 +3,7 @@
     <explicitly-accepted>
       <name>JDK_12</name>
       <name>JDK_X</name>
+      <name>JDK_17</name>
     </explicitly-accepted>
   </component>
 </application>
