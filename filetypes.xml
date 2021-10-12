@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="worker-sap-knownhosts" type="AUTO_DETECTED" />
       <mapping pattern="podman-auto-update" type="AUTO_DETECTED" />
       <mapping pattern="la-divina-comedia" type="AUTO_DETECTED" />
       <mapping pattern="container-hibernate-github-bot" type="AUTO_DETECTED" />
