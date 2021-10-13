@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>pom.xml, *.properties</mask>
     <mask>!*.html</mask>
     <mask>*Config.java</mask>
@@ -29,9 +30,9 @@
     <mask>beans.xml</mask>
     <mask>*persistence.xml</mask>
     <mask>batch.xml,hibernate-search-mass-indexing.xml</mask>
-    <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.asciidoc</mask>
     <mask>*.adoc</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
