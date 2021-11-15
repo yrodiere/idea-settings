@@ -2,8 +2,17 @@
   <component name="GraziConfig">
     <option name="userDisabledRules">
       <set>
-        <option value="PASSIVE_VOICE" />
+        <option value="LanguageTool.EN.PASSIVE_VOICE" />
       </set>
+    </option>
+    <option name="detectionContext">
+      <State>
+        <option name="disabled">
+          <set>
+            <option value="FRENCH" />
+          </set>
+        </option>
+      </State>
     </option>
   </component>
 </application>
