@@ -10,7 +10,6 @@
     <mask>*Settings.java</mask>
     <mask>!pom.xml</mask>
     <mask>*.yml</mask>
-    <mask>Log.java</mask>
     <mask>!*.java</mask>
     <mask>log4j.properties</mask>
     <mask>*Sort*</mask>
@@ -35,5 +34,6 @@
     <mask>*.properties</mask>
     <mask>*.jbang</mask>
     <mask>*.java</mask>
+    <mask>Log.java</mask>
   </component>
 </application>
