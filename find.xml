@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.proto</mask>
+    <option name="FILE_MASK" value="module.xml" />
     <mask>*.rb</mask>
     <mask>*Settings.java</mask>
     <mask>!pom.xml</mask>
@@ -37,5 +37,6 @@
     <mask>*.jbang</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>module.xml</mask>
   </component>
 </application>
