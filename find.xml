@@ -3,8 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.rb</mask>
     <mask>*Settings.java</mask>
     <mask>!pom.xml</mask>
@@ -25,7 +28,6 @@
     <mask>batch.xml,hibernate-search-mass-indexing.xml</mask>
     <mask>*.asciidoc</mask>
     <mask>*.adoc</mask>
-    <mask>pom.xml</mask>
     <mask>Log.java</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -35,5 +37,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>module.xml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
