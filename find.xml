@@ -5,7 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Settings.java</mask>
     <mask>!pom.xml</mask>
     <mask>*.yml</mask>
     <mask>!*.java</mask>
@@ -33,7 +32,8 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>module.xml</mask>
-    <mask>pom.xml</mask>
     <mask>*hbm*</mask>
+    <mask>pom.xml`</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
