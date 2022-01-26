@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.asciidoc" />
     <mask>!pom.xml</mask>
     <mask>*.yml</mask>
     <mask>!*.java</mask>
@@ -21,7 +22,6 @@
     <mask>beans.xml</mask>
     <mask>*persistence.xml</mask>
     <mask>batch.xml,hibernate-search-mass-indexing.xml</mask>
-    <mask>*.asciidoc</mask>
     <mask>*.adoc</mask>
     <mask>Log.java</mask>
     <mask>*.css</mask>
@@ -35,5 +35,6 @@
     <mask>*hbm*</mask>
     <mask>pom.xml`</mask>
     <mask>pom.xml</mask>
+    <mask>*.asciidoc</mask>
   </component>
 </application>

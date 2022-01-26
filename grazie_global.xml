@@ -5,6 +5,18 @@
         <option value="LanguageTool.EN.PASSIVE_VOICE" />
       </set>
     </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="the Hibernate" />
+            <option value="allowing Hibernate" />
+            <option value="a Hibernate" />
+            <option value="The Hibernate" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
     <option name="detectionContext">
       <State>
         <option name="disabled">
