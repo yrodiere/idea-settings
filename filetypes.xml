@@ -19,6 +19,7 @@
       <mapping pattern="segments_2" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".donotdelete" type="PLAIN_TEXT" />
+      <mapping ext="options" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="multistage" type="PLAIN_TEXT" />
       <mapping ext="btm" type="PLAIN_TEXT" />
