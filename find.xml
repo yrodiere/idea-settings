@@ -33,7 +33,7 @@
     <mask>*hbm*</mask>
     <mask>pom.xml`</mask>
     <mask>*.asciidoc</mask>
-    <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
