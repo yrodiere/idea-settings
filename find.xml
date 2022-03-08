@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.haml" />
     <mask>!pom.xml</mask>
     <mask>*.yml</mask>
     <mask>!*.java</mask>
@@ -16,12 +17,10 @@
     <mask>*Test.java</mask>
     <mask>*.gradle</mask>
     <mask>*.json</mask>
-    <mask>*.haml</mask>
     <mask>persistence.xml</mask>
     <mask>beans.xml</mask>
     <mask>*persistence.xml</mask>
     <mask>batch.xml,hibernate-search-mass-indexing.xml</mask>
-    <mask>*.adoc</mask>
     <mask>Log.java</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -35,5 +34,7 @@
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.asciidoc</mask>
+    <mask>*.adoc</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
