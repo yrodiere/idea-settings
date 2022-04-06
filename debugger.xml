@@ -95,6 +95,11 @@
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="androidx.compose.runtime.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
   </component>
   <component name="NodeRendererSettings">
     <option name="ALTERNATIVE_COLLECTION_VIEW_ENABLED" value="false" />
