@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="Log.java" />
     <mask>*.yml</mask>
     <mask>!*.java</mask>
     <mask>log4j.properties</mask>
@@ -19,7 +20,6 @@
     <mask>beans.xml</mask>
     <mask>*persistence.xml</mask>
     <mask>batch.xml,hibernate-search-mass-indexing.xml</mask>
-    <mask>Log.java</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -35,5 +35,6 @@
     <mask>*.haml</mask>
     <mask>*.java</mask>
     <mask>pom.xml`</mask>
+    <mask>Log.java</mask>
   </component>
 </application>
