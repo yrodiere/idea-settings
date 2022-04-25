@@ -34,6 +34,7 @@
       <mapping ext="adoc2" type="PLAIN_TEXT" />
       <mapping ext="haml" type="PLAIN_TEXT" />
       <mapping ext="stacktracecleanerprovider" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cfs" type="PLAIN_TEXT" />
       <mapping ext="profiler" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
