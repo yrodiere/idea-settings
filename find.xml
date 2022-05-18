@@ -28,12 +28,12 @@
     <mask>module.xml</mask>
     <mask>*hbm*</mask>
     <mask>*.asciidoc</mask>
-    <mask>*.adoc</mask>
     <mask>*.scss</mask>
     <mask>*.haml</mask>
     <mask>*.java</mask>
     <mask>pom.xml`</mask>
     <mask>Log.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.adoc</mask>
   </component>
 </application>
