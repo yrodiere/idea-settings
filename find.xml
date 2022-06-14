@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.yml</mask>
+    <option name="FILE_MASK" value="*Config.java" />
     <mask>!*.java</mask>
     <mask>log4j.properties</mask>
     <mask>*Sort*</mask>
@@ -35,5 +35,6 @@
     <mask>Log.java</mask>
     <mask>pom.xml</mask>
     <mask>*.adoc</mask>
+    <mask>*Config.java</mask>
   </component>
 </application>
