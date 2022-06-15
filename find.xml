@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>!*.java</mask>
+    <option name="FILE_MASK" value="*.kts" />
     <mask>log4j.properties</mask>
     <mask>*Sort*</mask>
     <mask>*Predicate*</mask>
@@ -33,5 +33,6 @@
     <mask>pom.xml</mask>
     <mask>*.adoc</mask>
     <mask>*Config.java</mask>
+    <mask>*.kts</mask>
   </component>
 </application>
