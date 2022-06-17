@@ -1,8 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.asciidoc" />
     <mask>log4j.properties</mask>
     <mask>*Sort*</mask>
     <mask>*Predicate*</mask>
@@ -23,7 +28,6 @@
     <mask>*.xml</mask>
     <mask>module.xml</mask>
     <mask>*hbm*</mask>
-    <mask>*.asciidoc</mask>
     <mask>*.scss</mask>
     <mask>*.haml</mask>
     <mask>*.java</mask>
@@ -33,5 +37,6 @@
     <mask>*.adoc</mask>
     <mask>*Config.java</mask>
     <mask>*.kts</mask>
+    <mask>*.asciidoc</mask>
   </component>
 </application>
