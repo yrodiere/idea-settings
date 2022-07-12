@@ -3,13 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>log4j.properties</mask>
     <mask>*Sort*</mask>
     <mask>*Predicate*</mask>
     <mask>*Projectio*</mask>
     <mask>*Scope*</mask>
     <mask>*Test.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.json</mask>
     <mask>persistence.xml</mask>
     <mask>beans.xml</mask>
@@ -33,5 +33,6 @@
     <mask>*.asciidoc</mask>
     <mask>Log.java</mask>
     <mask>*.haml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
