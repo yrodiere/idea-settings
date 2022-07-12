@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.haml" />
     <mask>log4j.properties</mask>
     <mask>*Sort*</mask>
     <mask>*Predicate*</mask>
@@ -24,7 +25,6 @@
     <mask>module.xml</mask>
     <mask>*hbm*</mask>
     <mask>*.scss</mask>
-    <mask>*.haml</mask>
     <mask>*.java</mask>
     <mask>pom.xml`</mask>
     <mask>pom.xml</mask>
@@ -33,5 +33,6 @@
     <mask>*.kts</mask>
     <mask>*.asciidoc</mask>
     <mask>Log.java</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
