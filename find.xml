@@ -19,7 +19,6 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.properties</mask>
     <mask>*.jbang</mask>
     <mask>*.xml</mask>
     <mask>module.xml</mask>
@@ -35,5 +34,6 @@
     <mask>*.gradle</mask>
     <mask>pom.xml</mask>
     <mask>Log.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
