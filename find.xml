@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>log4j.properties</mask>
     <mask>*Sort*</mask>
     <mask>*Predicate*</mask>
@@ -31,9 +32,9 @@
     <mask>*.asciidoc</mask>
     <mask>*.haml</mask>
     <mask>*.gradle</mask>
-    <mask>pom.xml</mask>
     <mask>Log.java</mask>
     <mask>*.properties</mask>
     <mask>*Config.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
