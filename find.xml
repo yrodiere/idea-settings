@@ -22,7 +22,6 @@
     <mask>module.xml</mask>
     <mask>*hbm*</mask>
     <mask>*.scss</mask>
-    <mask>*.java</mask>
     <mask>pom.xml`</mask>
     <mask>*.adoc</mask>
     <mask>*.kts</mask>
@@ -33,5 +32,6 @@
     <mask>*.properties</mask>
     <mask>*Config.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
