@@ -28,10 +28,10 @@
     <mask>*.asciidoc</mask>
     <mask>*.haml</mask>
     <mask>*.gradle</mask>
-    <mask>Log.java</mask>
     <mask>*.properties</mask>
     <mask>*Config.java</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>Log.java</mask>
   </component>
 </application>
