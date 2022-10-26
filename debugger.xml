@@ -1,6 +1,5 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="TRACING_FILTERS_ENABLED" value="false" />
     <option name="ALWAYS_SMART_STEP_INTO" value="false" />
     <option name="SKIP_SYNTHETIC_METHODS" value="false" />
     <option name="SKIP_CLASSLOADERS" value="false" />
@@ -97,6 +96,31 @@
     </filter>
     <filter>
       <option name="PATTERN" value="androidx.compose.runtime.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="io.quarkus.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="io.vertx.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="io.smallrye.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.arjuna.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.jboss.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
