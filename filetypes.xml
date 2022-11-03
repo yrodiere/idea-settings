@@ -15,8 +15,8 @@
       <mapping ext="dia" type="Native" />
       <mapping pattern="persistence,xml" type="PLAIN_TEXT" />
       <mapping pattern="ci-slave" type="PLAIN_TEXT" />
-      <mapping pattern="segments_2" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="segments_2" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".all-contributorsrc" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
